@@ -16,7 +16,7 @@
   "main": "lib/monorepo-sandbox-z.js",
   "scripts": {},
   "dependencies": {
-    "@azu/monorepo-sandbox-release-y": "^1.10.1"
+    "@hendra1/monorepo-sandbox-release-y": "^1.10.1"
   },
   "publishConfig": {
     "access": "public",
