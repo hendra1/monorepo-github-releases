@@ -15,7 +15,7 @@
     "url": "https://github.com/hendra1/monorepo-github-releases.git"
   },
   "license": "MIT",
-  "author": "azu",
+  "author": "hendra1",
   "directories": {
     "lib": "lib",
     "test": "test"
@@ -29,12 +29,8 @@
     "release": "lerna publish from-package",
     "ci:release": "lerna publish from-package --yes"
   },
+  "dependencies": {},
   "devDependencies": {
     "lerna": "^8.1.8"
-  },
-  "workspaces": {
-    "packages": [
-      "packages/*"
-    ]
   }
 }
