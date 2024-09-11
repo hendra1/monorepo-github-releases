@@ -1,6 +1,6 @@
 {
   "name": "@hendra1/monorepo-sandbox-release-y",
-  "version": "1.10.1",
+  "version": "0.0.1",
   "description": "[example] y is package",
   "repository": {
     "type": "git",
