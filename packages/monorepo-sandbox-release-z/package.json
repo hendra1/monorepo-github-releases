@@ -1,6 +1,6 @@
 {
   "name": "@hendra1/monorepo-sandbox-release-z",
-  "version": "11.1.0",
+  "version": "11.1.1",
   "description": "[example] z is packages",
   "homepage": "https://github.com/hendra1/monorepo-sandbox/tree/master/packages/monorepo-sandbox-z#readme",
   "repository": {
@@ -16,7 +16,7 @@
   "main": "lib/monorepo-sandbox-z.js",
   "scripts": {},
   "dependencies": {
-    "@hendra1/monorepo-sandbox-release-y": "^11.1.0"
+    "@hendra1/monorepo-sandbox-release-y": "^11.1.1"
   },
   "publishConfig": {
     "access": "public",
